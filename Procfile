@@ -1,1 +1,1 @@
-web: node app.js
+web: node app.js localhost 8080
